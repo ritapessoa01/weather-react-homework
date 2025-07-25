@@ -34,13 +34,18 @@ export default function WeatherApp() {
         <p>
           {" "}
           This project was coded by{" "}
-          <a href="https://github.com/ritapessoa01" target="_blank">
+          <a
+            href="https://github.com/ritapessoa01"
+            target="_blank"
+            rel="noreferrer"
+          >
             Rita Pessoa
           </a>{" "}
           and is{" "}
           <a
             href="https://github.com/ritapessoa01/weather-react-homework"
             target="_blank"
+            rel="noreferrer"
           >
             {" "}
             on GitHub
@@ -49,6 +54,7 @@ export default function WeatherApp() {
           <a
             href="https://react-weather-homework4.netlify.app/"
             target="_blank"
+            rel="noreferrer"
           >
             hosted on Netlify
           </a>
